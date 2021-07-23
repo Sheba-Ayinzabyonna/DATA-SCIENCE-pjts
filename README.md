@@ -1,4 +1,5 @@
                                               # Women Tech Series Program - Data Science Track
+                                                               PROJECT ONE
                                               Exploratory Data Analysis Assignment.
 Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns, to spot anomalies, to test hypotheses and check assumptions with the help of summary statistics and graphical representations.
 After downloading the white variant of Wine Quality data set (https://archive.ics.uci.edu/ml/datasets/wine+quality) from the UCI Machine Learning Repository, data was seperated by delimiter.
